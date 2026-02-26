@@ -147,17 +147,17 @@
   {
     "Category": "Outcome",
     "Sub_Type": "Recycle",
-    "Story_Chunk": "Then, on a whim in [Peak Date], you decided to sell because you felt the room was getting a bit too hot. You pocketed $[Cash Amount] in pure profit, leaving the 'believers' to hold the bag. [X] months later, as the market bled, you stepped back in and rebought your entire original stake at a massive discount. You played with house money from that day forward, eventually cashing out your entire position at the ultimate high for a final total of $[Final Total]."
+    "Story_Chunk": "Then, on a whim in [Peak Date], you decided to sell because you felt the room was getting a bit too hot. You pocketed $[Cash Pocketed] in pure profit, leaving the 'believers' to hold the bag while you banked your win. By [Trough Date], as the market bled, you stepped back in and rebought your entire original stake using just a fraction of those gains. You essentially walked away with $[Cash Pocketed] in cold hard cash and a 'free' position that eventually cashed out for a final total of $[Final Total]."
   },
   {
     "Category": "Outcome",
     "Sub_Type": "Recycle",
-    "Story_Chunk": "You pulled a classic power move. You sold the top, banked the initial seed, and waited for the inevitable 'correction'. You essentially got your entire position back for free and walked away with $[Cash Amount] in your pocket. When the market finally hit its absolute peak, you sold everything, turning that tactical whim into a final exit worth $[Final Total]."
+    "Story_Chunk": "You pulled a classic power move. You sold the top in [Peak Date], banked $[Cash Pocketed] in cash, and waited for the inevitable correction. By [Trough Date], you bought back every single token for a fraction of what you sold them for. You didn't just 'invest'; you extracted $[Cash Pocketed] from the market for your own pocket while keeping your full stake. When you finally exited at the absolute peak, that remaining position was worth $[Final Total]."
   },
   {
     "Category": "Outcome",
     "Sub_Type": "Recycle",
-    "Story_Chunk": "You sensed the shift. You cashed out at the height of the mania, waited for the 'blood in the streets,' and scooped up your entire holding again for pennies on the dollar. Absolute savagery. You held that 'rebought' stake all the way to the ultimate peak, exiting for a final payout of $[Final Total] that most people only see in movies."
+    "Story_Chunk": "You sensed the shift. You cashed out at the height of the mania in [Peak Date] and waited for the 'blood in the streets' on [Trough Date] to scoop up your entire holding again for pennies on the dollar. This move literally paid you $[Cash Pocketed] just to stay in the game. You held that 'rebought' stake all the way to the moon, exiting for a final payout of $[Final Total]. That’s $[Cash Pocketed] in spendable cash and a fortune in the bank."
   },
   {
     "Category": "Closer",
